@@ -1,16 +1,25 @@
-## Hi there 👋
+# Felipe Riechelmann Barbosa
 
-<!--
-**FelipeRiechelmann/FelipeRiechelmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics | Power BI | SQL | Process Improvement
 
-Here are some ideas to get you started:
+Currently working in a global logistics environment, supporting reporting, KPIs, operational processes and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Power BI
+- Excel
+- Power Query
+- SQL
+- DAX
+- Process Improvement
+
+## Projects
+
+- Logistics Performance Dashboard
+- Sales Analytics Dashboard
+- Data Cleaning with Power Query
+
+## Contact
+
+LinkedIn:
+ https://www.linkedin.com/in/felipe-riechelmann-barbosa-88b98035b?utm_source=share_via&utm_content=profile&utm_medium=member_android
