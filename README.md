@@ -17,8 +17,8 @@ End-to-end pipeline that finds undervalued retro games on classifieds sites. It 
 
 ## Also here
 
+- [TechNews](https://github.com/FelipeRiechelmann/TechNews): an AI agent that curates a daily digest of tech, AI and games news and delivers it by email
 - [Frameworks-Web](https://github.com/FelipeRiechelmann/Frameworks-Web): web project built during my degree (TypeScript)
-- TechNews (coming soon): an AI agent that curates a daily tech, AI and games news digest
 
 ## Currently
 
